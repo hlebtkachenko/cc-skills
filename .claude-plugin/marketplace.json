@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cc-skills",
+  "description": "Claude Code skill plugin. One folder per skill, add as many as you want. Auto-updates via git pull on the default branch.",
+  "owner": {
+    "name": "Hleb Tkachenko",
+    "url": "https://github.com/hlebtkachenko"
+  },
+  "plugins": [
+    {
+      "name": "cc-skills",
+      "description": "One or more skills in one plugin, auto-updated from GitHub.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

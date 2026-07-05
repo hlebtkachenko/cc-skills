@@ -1,0 +1,8 @@
+{
+  "name": "cc-skills",
+  "description": "Claude Code skill plugin scaffold. One folder per skill, auto-updated from GitHub default branch.",
+  "author": {
+    "name": "Hleb Tkachenko",
+    "url": "https://github.com/hlebtkachenko"
+  }
+}
